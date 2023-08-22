@@ -1,0 +1,5 @@
+<platform name="android">
+    <allow-intent href="market:*"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- Other permissions if needed -->
+</platform>
